@@ -56,7 +56,7 @@ fewUniqueData = loadDataArray("data-files/few-unique-values.txt")
 startTime = time.time()
 bubbleSort(fewUniqueData)
 endTime = time.time()
-print(f"Sort Data: {endTime - startTime} seconds")
+print(f"Sort Data: {endTime - startTime} seconds"
 
 # Trials For BubblesSort - randomData
 
